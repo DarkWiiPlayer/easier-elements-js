@@ -1,0 +1,18 @@
+{
+  "name": "easier-elements",
+  "version": "1.0.0",
+  "author": "darkwiiplayer",
+  "license": "Unlicense",
+  "main": "easier-elements.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkwiiplayer/easier-elements-js"
+  },
+  "keywords": [
+    "components",
+    "html",
+    "ui",
+    "utility"
+  ]
+}
